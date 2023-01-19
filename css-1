@@ -1,0 +1,36 @@
+﻿@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLEA.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLEA.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf) format('truetype');
+}

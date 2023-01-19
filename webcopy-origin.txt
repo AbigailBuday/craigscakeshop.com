@@ -1,0 +1,2212 @@
+Uri: https://craigscakeshop.com/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/about-us/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/birthday/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\birthday\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/cakes/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\cakes\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/careers/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\careers\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/comments/feed/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://craigscakeshop.com/contact/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/cupcakes/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\cupcakes\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/faqs/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\faqs\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/feed/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://craigscakeshop.com/frosting/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\frosting\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/grab-n-go-desserts/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\grab-n-go-desserts\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/graduation/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\graduation\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/mini-cakes/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\mini-cakes\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/order/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\order\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/other-celebrations/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\other-celebrations\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/other-desserts/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\other-desserts\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/religious-events/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\religious-events\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/schedule-a-tasting/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\schedule-a-tasting\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/showers/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\showers\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/weddings/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\weddings\index.htm
+Content Type: text/html
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/css/all.min.css?ver=1610997086
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/assets/js/dismiss.js?ver=1610997086
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\assets\js\dismiss.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/atomic-blocks/dist/blocks.style.build.css?ver=1610997086
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\atomic-blocks\dist\blocks.style.build.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/images/gf-creditcards-check.svg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\images\gf-creditcards-check.svg
+Content Type: image/svg+xml
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/images/gf-creditcards.svg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\images\gf-creditcards.svg
+Content Type: image/svg+xml
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/js/conditional_logic.min.js?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\js\conditional_logic.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/js/datepicker-legacy.min.js?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\js\datepicker-legacy.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/js/datepicker.min.js?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\js\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\js\gravityforms.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\js\jquery.json.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\js\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\js\placeholders.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\legacy\css\browsers.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\legacy\css\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/legacy/css/chosen-sprite@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\legacy\css\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/legacy/css/datepicker.min.css?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\legacy\css\datepicker.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\legacy\css\formreset.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\legacy\css\formsmain.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.6.8
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\legacy\css\readyclass.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityforms/legacy/images/datepicker/arrow.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityforms\legacy\images\datepicker\arrow.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js?ver=1.1
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\gravityformsrecaptcha\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/css/frontend.css?ver=1.66
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\css\frontend.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/css/grayscale.svg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\css\grayscale.svg
+Content Type: image/svg+xml
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/css/ingfont.css?ver=1.66
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\css\ingfont.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/font/ingfont.eot?98740282
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\font\ingfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/font/ingfont.svg?98740282
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\font\ingfont.svg
+Content Type: image/svg+xml
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/font/ingfont.ttf?98740282
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\font\ingfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/font/ingfont.woff2?98740282
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\font\ingfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/font/ingfont.woff?98740282
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\font\ingfont.woff
+Content Type: application/font-woff
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/images/loading.gif
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\images\loading.gif
+Content Type: image/gif
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/images/video-icon.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\images\video-icon.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/js/jq-ingallery.js?ver=1.66
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\js\jq-ingallery.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/js/jquery.form.min.js?ver=1.66
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\js\jquery.form.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/slick/slick.css?ver=1.66
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\slick\slick.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/ingallery/assets/slick/slick.js?ver=1.66
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\ingallery\assets\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/kadence-blocks/dist/blocks/accordion.style.build.css?ver=2.4.22
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\kadence-blocks\dist\blocks\accordion.style.build.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/kadence-blocks/dist/blocks/btn.style.build.css?ver=2.4.22
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\kadence-blocks\dist\blocks\btn.style.build.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/kadence-blocks/dist/blocks/column.style.build.css?ver=2.4.22
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\kadence-blocks\dist\blocks\column.style.build.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/kadence-blocks/dist/blocks/gallery.style.build.css?ver=2.4.22
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\kadence-blocks\dist\blocks\gallery.style.build.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/kadence-blocks/dist/blocks/row.style.build.css?ver=2.4.22
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\kadence-blocks\dist\blocks\row.style.build.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/kadence-blocks/dist/kb-masonry-init.js?ver=2.4.22
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\kadence-blocks\dist\kb-masonry-init.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/kadence-blocks/dist/kt-accordion-min.js?ver=2.4.22
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\kadence-blocks\dist\kt-accordion-min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/simple-social-icons/css/style.css?ver=3.0.2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\simple-social-icons\css\style.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/simplelightbox/dist/simple-lightbox.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\simplelightbox\dist\simple-lightbox.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/plugins/simplelightbox/dist/simple-lightbox.min.js?ver=2.10.0
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\simplelightbox\dist\simple-lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/simplelightbox/resources/js/setup.simplelightbox.js?ver=2.10.0
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\simplelightbox\resources\js\setup.simplelightbox.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/structured-content/dist/app.build.js?ver=1.5.2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\structured-content\dist\app.build.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/plugins/structured-content/dist/blocks.style.build.css?ver=1.5.2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\plugins\structured-content\dist\blocks.style.build.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/themes/craigs-cake-shop-child/assets/app.js?ver=1643319491
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\craigs-cake-shop-child\assets\app.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/themes/craigs-cake-shop-child/assets/fonts/Archer-Bold-Pro.otf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\craigs-cake-shop-child\assets\fonts\Archer-Bold-Pro.otf
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-content/themes/craigs-cake-shop-child/js/responsive-menus.min.js?ver=1.1.9
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\craigs-cake-shop-child\js\responsive-menus.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/themes/craigs-cake-shop-child/js/smooth-scroll.js?ver=1.1.9
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\craigs-cake-shop-child\js\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/themes/craigs-cake-shop-child/js/sticky-header.js?ver=1.1.9
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\craigs-cake-shop-child\js\sticky-header.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/themes/craigs-cake-shop-child/lib/gutenberg/front-end.css?ver=1.1.9
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\craigs-cake-shop-child\lib\gutenberg\front-end.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/themes/craigs-cake-shop-child/style.css?ver=1.1.9
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\craigs-cake-shop-child\style.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\genesis\lib\js\menu\superfish.args.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\genesis\lib\js\menu\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\themes\genesis\lib\js\skip-links.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/cropped-craigs-cake-shop-logo-180x180.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\cropped-craigs-cake-shop-logo-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/cropped-craigs-cake-shop-logo-192x192.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\cropped-craigs-cake-shop-logo-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/cropped-craigs-cake-shop-logo-32x32.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\cropped-craigs-cake-shop-logo-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/graphic_birthdaycake@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\graphic_birthdaycake@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/graphic_flowers@2x-300x192.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\graphic_flowers@2x-300x192.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/graphic_flowers@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\graphic_flowers@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/graphic_minicake@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\graphic_minicake@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/graphic_miniscroll@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\graphic_miniscroll@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/graphic_miniscroll_bottom@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\graphic_miniscroll_bottom@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/graphic_scroll@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\graphic_scroll@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/icon_fb@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\icon_fb@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/icon_instagram@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\icon_instagram@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/icon_pinterest@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\icon_pinterest@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_anniversary@2x-1024x601.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_anniversary@2x-1024x601.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_anniversary@2x-300x176.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_anniversary@2x-300x176.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_anniversary@2x-768x451.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_anniversary@2x-768x451.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_anniversary@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_anniversary@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_april_springtimesurprise@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_april_springtimesurprise@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_april_springtimesurprise@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_april_springtimesurprise@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_april_springtimesurprise@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_april_springtimesurprise@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_august_elvis@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_august_elvis@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_august_elvis@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_august_elvis@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_august_elvis@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_august_elvis@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_banner@2x-scaled.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_banner@2x-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_bridalshower@2x-1024x601.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_bridalshower@2x-1024x601.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_bridalshower@2x-300x176.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_bridalshower@2x-300x176.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_bridalshower@2x-768x451.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_bridalshower@2x-768x451.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_bridalshower@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_bridalshower@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cactus_cupcakes@2x-300x160.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cactus_cupcakes@2x-300x160.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cactus_cupcakes@2x-768x409.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cactus_cupcakes@2x-768x409.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cactus_cupcakes@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cactus_cupcakes@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake1@2x-300x200.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake1@2x-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake1@2x-600x400.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake1@2x-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake1@2x-768x511.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake1@2x-768x511.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake1@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake1@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake2@2x-140x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake2@2x-140x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake2@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake2@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake3@2x-300x151.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake3@2x-300x151.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake3@2x-768x386.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake3@2x-768x386.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake3@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake3@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake5@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake5@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake5@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake5@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake5@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake5@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake6@2x-300x281.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake6@2x-300x281.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake6@2x-768x718.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake6@2x-768x718.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cake6@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cake6@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_carrot@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_carrot@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_carrot@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_carrot@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_carrot@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_carrot@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_chocolate@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_chocolate@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_chocolate@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_chocolate@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_chocolate@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_chocolate@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_craigscakes_logo@2x-300x233.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_craigscakes_logo@2x-300x233.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_craigscakes_logo@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_craigscakes_logo@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cutting_diagram@2x-235x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cutting_diagram@2x-235x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_cutting_diagram@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_cutting_diagram@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_december_peppermintchill@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_december_peppermintchill@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_december_peppermintchill@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_december_peppermintchill@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_december_peppermintchill@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_december_peppermintchill@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_dog_cupcakes@2x-300x163.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_dog_cupcakes@2x-300x163.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_dog_cupcakes@2x-768x418.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_dog_cupcakes@2x-768x418.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_dog_cupcakes@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_dog_cupcakes@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_february_berrykiss@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_february_berrykiss@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_february_berrykiss@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_february_berrykiss@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_february_berrykiss@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_february_berrykiss@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_birthdaycake@2x-300x136.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_birthdaycake@2x-300x136.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_birthdaycake@2x-768x347.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_birthdaycake@2x-768x347.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_birthdaycake@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_birthdaycake@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_cakepops@2x-300x140.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_cakepops@2x-300x140.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_cakepops@2x-768x358.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_cakepops@2x-768x358.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_cakepops@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_cakepops@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_llamacake@2x-300x294.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_llamacake@2x-300x294.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_llamacake@2x-768x753.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_llamacake@2x-768x753.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_llamacake@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_llamacake@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_minicake_pink@2x-297x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_minicake_pink@2x-297x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_minicake_pink@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_minicake_pink@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_pancake@2x-300x294.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_pancake@2x-300x294.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_pancake@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_pancake@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_sunflower@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_sunflower@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_sunflower@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_sunflower@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_gallery_sunflower@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_gallery_sunflower@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_grabgo_cakepoppushups@2x-1024x683.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_grabgo_cakepoppushups@2x-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_grabgo_cakepoppushups@2x-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_grabgo_cakepoppushups@2x-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_grabgo_cakepoppushups@2x-300x200.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_grabgo_cakepoppushups@2x-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_grabgo_cakepoppushups@2x-600x400.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_grabgo_cakepoppushups@2x-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_grabgo_cakepoppushups@2x-768x512.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_grabgo_cakepoppushups@2x-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_grabgo_cakepoppushups@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_grabgo_cakepoppushups@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_groom1@2x-200x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_groom1@2x-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_groom1@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_groom1@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_groom2@2x-200x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_groom2@2x-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_groom2@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_groom2@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_groom3@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_groom3@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_groom3@2x-300x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_groom3@2x-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_groom3@2x-600x600.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_groom3@2x-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_groom3@2x-768x768.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_groom3@2x-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_groom3@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_groom3@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_group3@2x-300x160.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_group3@2x-300x160.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_group3@2x-768x409.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_group3@2x-768x409.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_group3@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_group3@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_hedgehog_cupcakes@2x-300x160.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_hedgehog_cupcakes@2x-300x160.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_hedgehog_cupcakes@2x-768x409.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_hedgehog_cupcakes@2x-768x409.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_hedgehog_cupcakes@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_hedgehog_cupcakes@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_july_strawberry@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_july_strawberry@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_july_strawberry@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_july_strawberry@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_july_strawberry@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_july_strawberry@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_june_orangeblossom@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_june_orangeblossom@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_june_orangeblossom@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_june_orangeblossom@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_june_orangeblossom@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_june_orangeblossom@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_lemonpoppyseed@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_lemonpoppyseed@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_lemonpoppyseed@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_lemonpoppyseed@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_lemonpoppyseed@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_lemonpoppyseed@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_march_shamrockoreo@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_march_shamrockoreo@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_march_shamrockoreo@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_march_shamrockoreo@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_march_shamrockoreo@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_march_shamrockoreo@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_may_chocolatecherry@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_may_chocolatecherry@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_may_chocolatecherry@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_may_chocolatecherry@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_may_chocolatecherry@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_may_chocolatecherry@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_minicake@2x-1024x697.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_minicake@2x-1024x697.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_minicake@2x-300x204.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_minicake@2x-300x204.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_minicake@2x-768x523.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_minicake@2x-768x523.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_minicake@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_minicake@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_minicake_grouping@2x-1024x683.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_minicake_grouping@2x-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_minicake_grouping@2x-300x200.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_minicake_grouping@2x-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_minicake_grouping@2x-600x400.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_minicake_grouping@2x-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_minicake_grouping@2x-768x513.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_minicake_grouping@2x-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_minicake_grouping@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_minicake_grouping@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_november_pumpkinharvest@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_november_pumpkinharvest@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_november_pumpkinharvest@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_november_pumpkinharvest@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_november_pumpkinharvest@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_november_pumpkinharvest@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_redvelvet@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_redvelvet@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_redvelvet@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_redvelvet@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_redvelvet@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_redvelvet@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_september_caramelapplespice@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_september_caramelapplespice@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_september_caramelapplespice@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_september_caramelapplespice@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_september_caramelapplespice@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_september_caramelapplespice@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_sunflower_cupcakes@2x-300x185.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_sunflower_cupcakes@2x-300x185.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_sunflower_cupcakes@2x-768x475.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_sunflower_cupcakes@2x-768x475.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_sunflower_cupcakes@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_sunflower_cupcakes@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_vanilla@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_vanilla@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_vanilla@2x-298x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_vanilla@2x-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_vanilla@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_vanilla@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_wedding7@2x-201x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_wedding7@2x-201x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_wedding7@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_wedding7@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_wedding8@2x-201x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_wedding8@2x-201x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_wedding8@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_wedding8@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_weddingcake1@2x-200x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_weddingcake1@2x-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_weddingcake1@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_weddingcake1@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_weddingcake2@2x-201x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_weddingcake2@2x-201x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/image_weddingcake2@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\image_weddingcake2@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/mini-cake-drawing@2x-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\mini-cake-drawing@2x-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/mini-cake-drawing@2x-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\mini-cake-drawing@2x-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2019/12/mini-cake-drawing@2x.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2019\12\mini-cake-drawing@2x.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_beehive@2x-300x294.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_beehive@2x-300x294.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_beehive@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_beehive@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_bluecake@2x-300x140.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_bluecake@2x-300x140.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_bluecake@2x-768x358.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_bluecake@2x-768x358.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_bluecake@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_bluecake@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_bluetiger@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_bluetiger@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_bluetiger@2x-300x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_bluetiger@2x-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_bluetiger@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_bluetiger@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cake5@2x-300x197.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cake5@2x-300x197.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cake5@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cake5@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cakepoppushups@2x-1024x375.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cakepoppushups@2x-1024x375.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cakepoppushups@2x-1536x562.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cakepoppushups@2x-1536x562.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cakepoppushups@2x-2048x750.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cakepoppushups@2x-2048x750.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cakepoppushups@2x-300x110.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cakepoppushups@2x-300x110.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cakepoppushups@2x-768x281.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cakepoppushups@2x-768x281.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cake_40@2x-300x231.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cake_40@2x-300x231.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cake_40@2x-768x591.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cake_40@2x-768x591.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_cake_40@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_cake_40@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_donut@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_donut@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_donut@2x-300x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_donut@2x-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_donut@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_donut@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_footer_full_3@2x-scaled.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_footer_full_3@2x-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_framein_signature@2x-1024x776.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_framein_signature@2x-1024x776.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_framein_signature@2x-300x227.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_framein_signature@2x-300x227.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_framein_signature@2x-768x582.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_framein_signature@2x-768x582.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_framein_signature@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_framein_signature@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_grabgo_minicakegroup@2x-1024x682.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_grabgo_minicakegroup@2x-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_grabgo_minicakegroup@2x-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_grabgo_minicakegroup@2x-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_grabgo_minicakegroup@2x-300x200.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_grabgo_minicakegroup@2x-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_grabgo_minicakegroup@2x-600x400.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_grabgo_minicakegroup@2x-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_grabgo_minicakegroup@2x-768x512.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_grabgo_minicakegroup@2x-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_grabgo_minicakegroup@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_grabgo_minicakegroup@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_hamburger@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_hamburger@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_hamburger@2x-300x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_hamburger@2x-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_hamburger@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_hamburger@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_hobbithouse@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_hobbithouse@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_hobbithouse@2x-300x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_hobbithouse@2x-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_hobbithouse@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_hobbithouse@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_racoon@2x-150x150.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_racoon@2x-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_racoon@2x-300x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_racoon@2x-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_racoon@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_racoon@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_religiouscake3@2x-300x271.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_religiouscake3@2x-300x271.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_religiouscake3@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_religiouscake3@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_shower_cake3@2x-220x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_shower_cake3@2x-220x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_shower_cake3@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_shower_cake3@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_signaturefrosting@2x-1024x776.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_signaturefrosting@2x-1024x776.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_signaturefrosting@2x-300x227.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_signaturefrosting@2x-300x227.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_signaturefrosting@2x-768x582.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_signaturefrosting@2x-768x582.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_signaturefrosting@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_signaturefrosting@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_tree@2x-140x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_tree@2x-140x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_tree@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_tree@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_unicorn@2x-197x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_unicorn@2x-197x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_unicorn@2x-673x1024.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_unicorn@2x-673x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_unicorn@2x-768x1169.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_unicorn@2x-768x1169.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_unicorn@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_unicorn@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_wededing_white@2x-200x300.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_wededing_white@2x-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/image_wededing_white@2x.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\image_wededing_white@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/wave-pale-blue.svg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\wave-pale-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/01/wave.svg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\01\wave.svg
+Content Type: image/svg+xml
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/4-tier-Hand-painted-floral-wedding-cake-wedding-page-201x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\4-tier-Hand-painted-floral-wedding-cake-wedding-page-201x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/4-tier-Hand-painted-floral-wedding-cake-wedding-page.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\4-tier-Hand-painted-floral-wedding-cake-wedding-page.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/All-Buttercream-Frosting-Option-1024x776.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\All-Buttercream-Frosting-Option-1024x776.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/All-Buttercream-Frosting-Option-300x227.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\All-Buttercream-Frosting-Option-300x227.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/All-Buttercream-Frosting-Option-768x582.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\All-Buttercream-Frosting-Option-768x582.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/All-Buttercream-Frosting-Option.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\All-Buttercream-Frosting-Option.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Buttercream-top-new-1024x776.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Buttercream-top-new-1024x776.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Buttercream-top-new-300x227.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Buttercream-top-new-300x227.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Buttercream-top-new-768x582.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Buttercream-top-new-768x582.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Buttercream-top-new.jpg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Buttercream-top-new.jpg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Tree-Bark-Design-with-Evergreen-Trees-Wedding-Cake-201x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Tree-Bark-Design-with-Evergreen-Trees-Wedding-Cake-201x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Tree-Bark-Design-with-Evergreen-Trees-Wedding-Cake.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Tree-Bark-Design-with-Evergreen-Trees-Wedding-Cake.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Tree-Bark-Mixed-Tiers-Edited-201x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Tree-Bark-Mixed-Tiers-Edited-201x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Tree-Bark-Mixed-Tiers-Edited.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Tree-Bark-Mixed-Tiers-Edited.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Twinkle-twinkle-little-star-baby-shower-cake-with-3-D-elephant-141x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Twinkle-twinkle-little-star-baby-shower-cake-with-3-D-elephant-141x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/10/Twinkle-twinkle-little-star-baby-shower-cake-with-3-D-elephant.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\10\Twinkle-twinkle-little-star-baby-shower-cake-with-3-D-elephant.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Cat-eating-cake-design-website-dimensions-1024x697.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Cat-eating-cake-design-website-dimensions-1024x697.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Cat-eating-cake-design-website-dimensions-300x204.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Cat-eating-cake-design-website-dimensions-300x204.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Cat-eating-cake-design-website-dimensions-768x523.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Cat-eating-cake-design-website-dimensions-768x523.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Cat-eating-cake-design-website-dimensions.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Cat-eating-cake-design-website-dimensions.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Chalice-and-Cross-Design-300x271.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Chalice-and-Cross-Design-300x271.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Chalice-and-Cross-Design.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Chalice-and-Cross-Design.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Edible-Image-with-Rose-Cascades-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Edible-Image-with-Rose-Cascades-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Edible-Image-with-Rose-Cascades-300x297.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Edible-Image-with-Rose-Cascades-300x297.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Edible-Image-with-Rose-Cascades.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Edible-Image-with-Rose-Cascades.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Forest-Animals-Baby-Shower-Cake-Design-300x294.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Forest-Animals-Baby-Shower-Cake-Design-300x294.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Forest-Animals-Baby-Shower-Cake-Design.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Forest-Animals-Baby-Shower-Cake-Design.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Harry-Potter-inspired-Design-updated-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Harry-Potter-inspired-Design-updated-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Harry-Potter-inspired-Design-updated-300x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Harry-Potter-inspired-Design-updated-300x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Harry-Potter-inspired-Design-updated.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Harry-Potter-inspired-Design-updated.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/New-Scrolling-Design-website-dimensions-300x197.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\New-Scrolling-Design-website-dimensions-300x197.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/New-Scrolling-Design-website-dimensions.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\New-Scrolling-Design-website-dimensions.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Nurse-Graduation-2-tier-cake-website-dimensions-271x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Nurse-Graduation-2-tier-cake-website-dimensions-271x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Nurse-Graduation-2-tier-cake-website-dimensions-768x849.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Nurse-Graduation-2-tier-cake-website-dimensions-768x849.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Nurse-Graduation-2-tier-cake-website-dimensions.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Nurse-Graduation-2-tier-cake-website-dimensions.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Scrolling-Cross-Design-300x271.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Scrolling-Cross-Design-300x271.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Scrolling-Cross-Design.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Scrolling-Cross-Design.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Scrolling-Grad-Design-with-Grad-Cap-and-Diploma-300x293.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Scrolling-Grad-Design-with-Grad-Cap-and-Diploma-300x293.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Scrolling-Grad-Design-with-Grad-Cap-and-Diploma.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Scrolling-Grad-Design-with-Grad-Cap-and-Diploma.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Wedding-Cake-Push-up-Pops-201x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Wedding-Cake-Push-up-Pops-201x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2020/12/Wedding-Cake-Push-up-Pops.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2020\12\Wedding-Cake-Push-up-Pops.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/05/Updated-Cross-Imprint-Design-2-300x271.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\05\Updated-Cross-Imprint-Design-2-300x271.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/05/Updated-Cross-Imprint-Design-2.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\05\Updated-Cross-Imprint-Design-2.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/07/Geo-stand-setup-with-floral-201x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\07\Geo-stand-setup-with-floral-201x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/07/Geo-stand-setup-with-floral.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\07\Geo-stand-setup-with-floral.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/3-D-dino-cake-design-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\3-D-dino-cake-design-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/3-D-dino-cake-design-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\3-D-dino-cake-design-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/3-D-dino-cake-design.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\3-D-dino-cake-design.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Birch-tree-initials-website-1-224x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Birch-tree-initials-website-1-224x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Birch-tree-initials-website-1.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Birch-tree-initials-website-1.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Coffee-Mug-website-size-297x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Coffee-Mug-website-size-297x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Coffee-Mug-website-size.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Coffee-Mug-website-size.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Gender-Reveal-Rosettes-website-300x285.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Gender-Reveal-Rosettes-website-300x285.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Gender-Reveal-Rosettes-website-768x729.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Gender-Reveal-Rosettes-website-768x729.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Gender-Reveal-Rosettes-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Gender-Reveal-Rosettes-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Maverick-Cake-Design-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Maverick-Cake-Design-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Maverick-Cake-Design-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Maverick-Cake-Design-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Maverick-Cake-Design.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Maverick-Cake-Design.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Mixed-Rosettes-Shower-Design-300x294.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Mixed-Rosettes-Shower-Design-300x294.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Mixed-Rosettes-Shower-Design.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Mixed-Rosettes-Shower-Design.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/teal-and-gold-flowers-website-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\teal-and-gold-flowers-website-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/teal-and-gold-flowers-website-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\teal-and-gold-flowers-website-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/teal-and-gold-flowers-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\teal-and-gold-flowers-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Under-the-sea-baby-shower-theme-300x292.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Under-the-sea-baby-shower-theme-300x292.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Under-the-sea-baby-shower-theme.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Under-the-sea-baby-shower-theme.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/We-can-bearly-wait-design-300x136.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\We-can-bearly-wait-design-300x136.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/We-can-bearly-wait-design-768x347.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\We-can-bearly-wait-design-768x347.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/We-can-bearly-wait-design.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\We-can-bearly-wait-design.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/We-love-you-to-the-moon-website-300x294.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\We-love-you-to-the-moon-website-300x294.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/We-love-you-to-the-moon-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\We-love-you-to-the-moon-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Wreath-of-flowers-website-300x294.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Wreath-of-flowers-website-300x294.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/08/Wreath-of-flowers-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\08\Wreath-of-flowers-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/10/New-October-Mini-2021-for-website-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\10\New-October-Mini-2021-for-website-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/10/New-October-Mini-2021-for-website-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\10\New-October-Mini-2021-for-website-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/10/New-October-Mini-2021-for-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\10\New-October-Mini-2021-for-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/3-tier-palette-painted-cake-website-139x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\3-tier-palette-painted-cake-website-139x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/3-tier-palette-painted-cake-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\3-tier-palette-painted-cake-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Bar-Setup-website-1024x768.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Bar-Setup-website-1024x768.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Bar-Setup-website-1536x1152.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Bar-Setup-website-1536x1152.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Bar-Setup-website-2048x1536.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Bar-Setup-website-2048x1536.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Bar-Setup-website-300x225.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Bar-Setup-website-300x225.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Bar-Setup-website-768x576.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Bar-Setup-website-768x576.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Shooters-website-1024x1536.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Shooters-website-1024x1536.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Shooters-website-200x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Shooters-website-200x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Shooters-website-683x1024.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Shooters-website-683x1024.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Shooters-website-768x1152.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Shooters-website-768x1152.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Dessert-Shooters-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Dessert-Shooters-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Mini-Cream-Puffs-website-1024x1536.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Mini-Cream-Puffs-website-1024x1536.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Mini-Cream-Puffs-website-200x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Mini-Cream-Puffs-website-200x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Mini-Cream-Puffs-website-683x1024.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Mini-Cream-Puffs-website-683x1024.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Mini-Cream-Puffs-website-768x1152.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Mini-Cream-Puffs-website-768x1152.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Mini-Cream-Puffs-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Mini-Cream-Puffs-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Mixed-Frosting-Wedding-Cake-website-140x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Mixed-Frosting-Wedding-Cake-website-140x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Mixed-Frosting-Wedding-Cake-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Mixed-Frosting-Wedding-Cake-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Push-ups-and-Cupcakes-website-1024x1536.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Push-ups-and-Cupcakes-website-1024x1536.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Push-ups-and-Cupcakes-website-200x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Push-ups-and-Cupcakes-website-200x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Push-ups-and-Cupcakes-website-683x1024.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Push-ups-and-Cupcakes-website-683x1024.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Push-ups-and-Cupcakes-website-768x1152.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Push-ups-and-Cupcakes-website-768x1152.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Push-ups-and-Cupcakes-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Push-ups-and-Cupcakes-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Sweetheart-Cutting-Cake-website-201x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Sweetheart-Cutting-Cake-website-201x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Sweetheart-Cutting-Cake-website.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Sweetheart-Cutting-Cake-website.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Tasting-Plate-300x220.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Tasting-Plate-300x220.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2021/11/Tasting-Plate.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2021\11\Tasting-Plate.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/01/Whimsical-Hearts-Design-scaled.jpeg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\01\Whimsical-Hearts-Design-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/01/Wood-Grain-Design-scaled.jpeg
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\01\Wood-Grain-Design-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Cake-Decorating-1-300x160.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Cake-Decorating-1-300x160.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Cake-Decorating-1-768x409.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Cake-Decorating-1-768x409.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Cake-Decorating-1.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Cake-Decorating-1.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Cake-Decorating-2-300x160.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Cake-Decorating-2-300x160.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Cake-Decorating-2-768x409.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Cake-Decorating-2-768x409.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Cake-Decorating-2.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Cake-Decorating-2.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Staff-Photo-Feburary-2022-v2-1024x710.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Staff-Photo-Feburary-2022-v2-1024x710.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Staff-Photo-Feburary-2022-v2-300x208.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Staff-Photo-Feburary-2022-v2-300x208.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Staff-Photo-Feburary-2022-v2-768x532.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Staff-Photo-Feburary-2022-v2-768x532.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Staff-Photo-Feburary-2022-v2.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Staff-Photo-Feburary-2022-v2.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Staff-Photo-New-Space-2022-300x160.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Staff-Photo-New-Space-2022-300x160.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Staff-Photo-New-Space-2022-768x409.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Staff-Photo-New-Space-2022-768x409.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/03/Staff-Photo-New-Space-2022.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\03\Staff-Photo-New-Space-2022.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Buttercream-Top-Craigs-Classic-Website-Size-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Buttercream-Top-Craigs-Classic-Website-Size-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Buttercream-Top-Craigs-Classic-Website-Size-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Buttercream-Top-Craigs-Classic-Website-Size-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Buttercream-Top-Craigs-Classic-Website-Size.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Buttercream-Top-Craigs-Classic-Website-Size.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Carrot-Craigs-Classic-Website-Size-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Carrot-Craigs-Classic-Website-Size-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Carrot-Craigs-Classic-Website-Size-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Carrot-Craigs-Classic-Website-Size-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Carrot-Craigs-Classic-Website-Size.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Carrot-Craigs-Classic-Website-Size.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Chocolate-Craigs-Classic-Website-Size-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Chocolate-Craigs-Classic-Website-Size-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Chocolate-Craigs-Classic-Website-Size-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Chocolate-Craigs-Classic-Website-Size-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Chocolate-Craigs-Classic-Website-Size.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Chocolate-Craigs-Classic-Website-Size.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Craigs-Classics-Cupcakes-Group-Photo-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Craigs-Classics-Cupcakes-Group-Photo-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Craigs-Classics-Cupcakes-Group-Photo-300x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Craigs-Classics-Cupcakes-Group-Photo-300x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Craigs-Classics-Cupcakes-Group-Photo.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Craigs-Classics-Cupcakes-Group-Photo.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Grab-n-go-Craigs-Classics-300x200.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Grab-n-go-Craigs-Classics-300x200.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Grab-n-go-Craigs-Classics-600x400.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Grab-n-go-Craigs-Classics-600x400.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Grab-n-go-Craigs-Classics-768x512.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Grab-n-go-Craigs-Classics-768x512.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Grab-n-go-Craigs-Classics.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Grab-n-go-Craigs-Classics.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Lemon-Poppyseed-Craigs-Classic-Website-Size-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Lemon-Poppyseed-Craigs-Classic-Website-Size-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Lemon-Poppyseed-Craigs-Classic-Website-Size-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Lemon-Poppyseed-Craigs-Classic-Website-Size-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Lemon-Poppyseed-Craigs-Classic-Website-Size.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Lemon-Poppyseed-Craigs-Classic-Website-Size.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Mini-Cakes-Grab-n-go-page-size-300x140.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Mini-Cakes-Grab-n-go-page-size-300x140.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Mini-Cakes-Grab-n-go-page-size-768x358.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Mini-Cakes-Grab-n-go-page-size-768x358.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Mini-Cakes-Grab-n-go-page-size.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Mini-Cakes-Grab-n-go-page-size.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Vanilla-Craigs-Classic-Website-Size-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Vanilla-Craigs-Classic-Website-Size-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Vanilla-Craigs-Classic-Website-Size-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Vanilla-Craigs-Classic-Website-Size-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2022/04/Vanilla-Craigs-Classic-Website-Size.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2022\04\Vanilla-Craigs-Classic-Website-Size.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2023/01/Mexican-Hot-Chocolate-Mini-website-size-2-150x150.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2023\01\Mexican-Hot-Chocolate-Mini-website-size-2-150x150.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2023/01/Mexican-Hot-Chocolate-Mini-website-size-2-298x300.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2023\01\Mexican-Hot-Chocolate-Mini-website-size-2-298x300.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-content/uploads/2023/01/Mexican-Hot-Chocolate-Mini-website-size-2.png
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-content\uploads\2023\01\Mexican-Hot-Chocolate-Mini-website-size-2.png
+Content Type: image/png
+
+Uri: https://craigscakeshop.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://craigscakeshop.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://craigscakeshop.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://craigscakeshop.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-includes\js\masonry.min.js
+Content Type: application/javascript
+
+Uri: https://craigscakeshop.com/wp-json/
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fbirthday%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fbirthday%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fcakes%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fcakes%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fcareers%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fcareers%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fcupcakes%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fcupcakes%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Ffaqs%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Ffaqs%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Ffrosting%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Ffrosting%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fgrab-n-go-desserts%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fgrab-n-go-desserts%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fgraduation%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fgraduation%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fmini-cakes%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fmini-cakes%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Forder%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Forder%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fother-celebrations%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fother-celebrations%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fother-desserts%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fother-desserts%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Freligious-events%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Freligious-events%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fschedule-a-tasting%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fschedule-a-tasting%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fshowers%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fshowers%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fweddings%2F
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcraigscakeshop.com%2Fweddings%2F&format=xml
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/1026
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\1026
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/182
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\182
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/218
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\218
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/24
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/260
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\260
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/267
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\267
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/272
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\272
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/279
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\279
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/284
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\284
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/286
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\286
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/291
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\291
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/302
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\302
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/313
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\313
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/323
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\323
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/340
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\340
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/348
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\348
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/383
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\383
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/424
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\424
+Content Type: application/json
+
+Uri: https://craigscakeshop.com/wp-json/wp/v2/pages/427
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\wp-json\wp\v2\pages\427
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css?family=Grand+Hotel|Quicksand:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Noto+Serif+SC:300%2C600|Playfair+Display:400%2C700%2C700i|Poppins:400&ver=1.1.9
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400%2C400i%2C600%2C600i%2C700%2C700i&subset=cyrillic%2Ccyrillic-ext%2Clatin-ext&ver=6.1.1
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/grandhotel/v13/7Au7p_IgjDKdCRWuR1azplQKGFk.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\grandhotel\v13\7Au7p_IgjDKdCRWuR1azplQKGFk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLEA.otf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\notoserifsc\v22\H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLEA.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLEA.otf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\notoserifsc\v22\H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLEA.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58a-xw.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58a-xw.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58a-xw.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LfXh48dAAAAAMYOzspJVW8oli1j9OKzASPlxDsc&ver=1.1
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-35786417-1
+File Name: C:\Downloaded Web Sites\craigscakeshop.com\gtag\js
+Content Type: application/javascript
+
